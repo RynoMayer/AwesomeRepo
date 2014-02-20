@@ -12,5 +12,8 @@ package com.mycompany.calculator.service;
  */
 public interface CalculatorService {
     int add(int a,int b);
-    
+    double multiply(double a, double b);
+    boolean equals(char a, char b);
+    boolean assertTruth(boolean condition);
+    boolean assertFalse(boolean cond);
 }
