@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 
-package com.mycompany.calculator.service;
+package com.mycompany.calculator.service.Impl;
+
+import com.mycompany.calculator.service.CalculatorService;
 
 /**
  *

@@ -5,7 +5,7 @@
 package com.mycompany.calculator;
 
 import com.mycompany.calculator.service.CalculatorService;
-import com.mycompany.calculator.service.CalculatorServiceImpl;
+import com.mycompany.calculator.service.Impl.CalculatorServiceImpl;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.AfterClass;
