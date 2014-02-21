@@ -16,4 +16,7 @@ public interface CalculatorService {
     boolean equals(char a, char b);
     boolean assertTruth(boolean condition);
     boolean assertFalse(boolean cond);
+    boolean isNotNull(String msg);
+    boolean arrayTest(String[] array1, String[] array2);
+   
 }

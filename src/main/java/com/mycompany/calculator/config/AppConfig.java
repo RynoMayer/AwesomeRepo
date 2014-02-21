@@ -8,7 +8,6 @@ package com.mycompany.calculator.config;
 
 import com.mycompany.calculator.service.CalculatorService;
 import com.mycompany.calculator.service.Impl.CalculatorServiceImpl;
-import com.mycompany.calculator.service.Impl.SuperCalc;
 import org.springframework.context.annotation.Bean;
 
 /**
